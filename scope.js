@@ -13,6 +13,8 @@ function sum(a, b) {
     mood = "fishy";
     console.log(mood);
   }
+  console.log(mood);
+
   console.log(day); // const & let don't allow you to call it before declaration.
   let day = "friday";
 

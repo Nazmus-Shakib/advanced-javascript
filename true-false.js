@@ -1,6 +1,6 @@
 // where we can get false value in variable:
 // const age = 0;
-// "", undefined, null, NaN
+// 0, "", undefined, null, NaN
 
 // where we can get true value in variable:
 // "0", " ", [], {},

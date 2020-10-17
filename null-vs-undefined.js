@@ -1,5 +1,7 @@
 // where we can get output as undefined:
 //1. let num;
+// console.log(num);
+
 //2. if no return value in function
 // function add(num1, num2) {
 //   console.log(num1 + num2);
